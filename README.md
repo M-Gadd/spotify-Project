@@ -17,3 +17,6 @@ Download Spotify [Images](https://bit.ly/2G1igqW)
 
 Open VScode and click on file --> Open --> spotify 
 
+
+Having trouble setting up your files and folders? Download and extract the Spotify . It already has the project structure and all the images you need!
+
