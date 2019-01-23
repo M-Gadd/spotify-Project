@@ -33,7 +33,11 @@ Happy Coding 💻 🤓
 
 
 ### Other Links
- - [The IronHack Breakfast Website](https://codepen.io/ironhack/pen/PGokOb)
+ - [Image Tag](https://codepen.io/ironhack/pen/GmqZjr)
+ - [The IronHack Breakfast Example](https://codepen.io/ironhack/pen/PGokOb)
+ - [Classes](https://codepen.io/ironhack/pen/XMmVja)
+ - [More Classes](https://codepen.io/ironhack/pen/dWzbYv)
+ - [IDs](https://codepen.io/ironhack/pen/EXOPLj)
  
 
 
