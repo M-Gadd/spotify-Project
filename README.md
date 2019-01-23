@@ -1,7 +1,7 @@
 ![IronHack Logo](https://user-images.githubusercontent.com/36512182/51620133-a4c4ec80-1f29-11e9-8ec7-ad5635578a36.png)
 # Spotify-Project
 
-Goals of the today's work shop [Spotify Landing Page](http://ironhack.github.io/euro-coding-challenge/spotify/)
+Today's Challenge [Spotify Landing Page](http://ironhack.github.io/euro-coding-challenge/spotify/)
 
 ### Setting up the enviroment 
 
