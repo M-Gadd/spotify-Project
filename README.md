@@ -21,3 +21,6 @@ Open VScode and click on file --> Open --> spotify
 Having trouble setting up your files and folders? Download and extract the [Spotify](https://github.com/M-Gadd/spotify-Project/archive/master.zip) . It already has the project structure and all the images you need!
 
 Happy Coding 💻 🤓
+
+
+https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
