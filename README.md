@@ -14,4 +14,3 @@ Download Spotify [Images](https://bit.ly/2G1igqW)
 
 Open VScode and click on file --> Open --> spotify 
 
-<img src"http://ironhack.github.io/euro-coding-challenge/spotify/" />
