@@ -10,4 +10,6 @@ Donwnload [VScode](https://code.visualstudio.com)
 - Create two folders: CSS & Images
 - Navigate inside CSS and create a file called style.css 
 
+Download Spotify [Images](https://bit.ly/2G1igqW)
+
 Open VScode and click on file --> Open --> spotify 
