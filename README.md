@@ -7,6 +7,10 @@ Today's Challenge: [Spotify Landing Page](http://ironhack.github.io/euro-coding-
 
 Download [VScode](https://code.visualstudio.com)
 
+Extensions: 
+- HTMLHint
+
+
 - Create a folder called spotify & navigate inside the Spotify folder
 - Create a file called index.html
 - Create two folders: CSS & Images
@@ -22,5 +26,3 @@ Having trouble setting up your files and folders? Download and extract the [Spot
 
 Happy Coding 💻 🤓
 
-
-![catGif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
