@@ -1,4 +1,4 @@
-
+![IronHack Logo](https://user-images.githubusercontent.com/36512182/51620133-a4c4ec80-1f29-11e9-8ec7-ad5635578a36.png)
 # Spotify-Project
 
 ### Setting up the enviroment 
