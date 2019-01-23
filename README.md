@@ -20,7 +20,7 @@ Today's Challenge: [Spotify Landing Page](http://ironhack.github.io/euro-coding-
 **4. Open VScode and click on file --> Open --> spotify**
 
 
-Having trouble setting up your files and folders? Download and extract the [Spotify](https://github.com/M-Gadd/spotify-Project/archive/master.zip) . It already has the project structure and all the images you need!
+<!---Having trouble setting up your files and folders? Download and extract the [Spotify](https://github.com/M-Gadd/spotify-Project/archive/master.zip) . It already has the project structure and all the images you need! --->
 
 
 **Google Fonts <link> tag for the [Open Sans font](https://fonts.google.com/specimen/Open+Sans)**
