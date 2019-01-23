@@ -5,17 +5,17 @@ Today's Challenge: [Spotify Landing Page](http://ironhack.github.io/euro-coding-
 
 ### Setting up the enviroment 
 
-### 1. Download [VScode](https://code.visualstudio.com)
+**1. Download [VScode](https://code.visualstudio.com)**
 
    - Create a folder called spotify & navigate inside the Spotify folder
    - Create a file called index.html
    - Create two folders: CSS & Images
    - Navigate inside CSS and create a file called style.css 
 
-### 2. Download Spotify [Images](https://bit.ly/2G1igqW)
+**2. Download Spotify [Images](https://bit.ly/2G1igqW)**
 
 
-### 3. Open VScode and click on file --> Open --> spotify 
+**3. Open VScode and click on file --> Open --> spotify**
 
 
 Having trouble setting up your files and folders? Download and extract the [Spotify](https://github.com/M-Gadd/spotify-Project/archive/master.zip) . It already has the project structure and all the images you need!
