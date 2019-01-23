@@ -27,4 +27,8 @@ Happy Coding 💻 🤓
 - [CSS-Tricks](https://css-tricks.com) - In-depth guides on all things CSS.
 - [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv) - An interactive page to learn about what all the Flexbox properties do.
 - [Flexbox Froggy](https://flexboxfroggy.com) - A cool game to learn more about Flexbox.
+- [CSS Grid course](https://cssgrid.io) - Free videos to learn about CSS Grid (the next generation flexbox).
+- [Bootstrap 4 Video](https://www.youtube.com/watch?v=9cKsq14Kfsw&feature=youtu.be) - A video to learn about Bootstrap, a cool tool to write less CSS.
+
+Of course, to get better you need to continue to build Websites!
 
